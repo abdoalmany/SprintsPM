@@ -1,0 +1,13 @@
+Discount Cart Risk Management
+Risk: 
+User can take 100% discount for every item .
+	Probability :Low
+	Impact:High
+	Risk strategy : Avoiding by testing security and avoid discount bugs.
+
+
+Opportunity:
+Taking great sponsorship .
+	Probability :Medium
+	Impact : High
+	Opportunity strategy:Enhancing by trying to catch sponsors eyes with good marketing
