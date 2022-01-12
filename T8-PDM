@@ -1,0 +1,8 @@
+Task A(es:1, d:3 , ef:3 >>> ls:1 , f:0 , le:3)
+Task B(es:4, d:4 , ef:7 >>> ls:4 , f:0 , le:7)
+Task C(es:4, d:2 , ef:5 >>> ls:4 , f:0 , le:5)
+Task D(es:8, d:5 , ef:12 >>> ls:8 , f:0 , le:12)
+Task E(es:6, d:1 , ef:6 >>> ls:12 , f:8 , le:12)
+Task F(es:6, d:2 , ef:7 >>> ls:15 , f:10 , le:16)
+Task G(es:13, d:4 , ef:16 >>> ls:13 , f:0 , le:16)
+Task H(es:17, d:3 , ef:19 >>> ls:17 , f:0 , le:19)
